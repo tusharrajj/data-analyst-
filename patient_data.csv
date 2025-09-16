@@ -1,0 +1,6 @@
+PatientID,Age,Gender,Disease,RiskScore,Readmitted
+1,65,M,Diabetes,0.8,Yes
+2,45,F,Hypertension,0.3,No
+3,70,M,Heart Disease,0.9,Yes
+4,50,F,Diabetes,0.5,No
+5,55,M,Hypertension,0.4,No
